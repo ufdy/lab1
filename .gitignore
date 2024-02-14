@@ -2,7 +2,7 @@ cmake 2/CMakeFiles/
 cmake 2/*.vcxproj
 cmake 2/*.sln
 cmake 2/*.vcxproj.filters
-
+*.jpg
 cmake 1/*.vcxproj
 cmake 1/*.vcxproj.filters
 cmake 1/*.sln
